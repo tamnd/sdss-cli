@@ -1,0 +1,10 @@
+title       = "sdss"
+baseURL     = "https://sdss-cli.tamnd.com/"
+description = "A command line for sdss."
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/sdss-cli"
